@@ -62,12 +62,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FamilyRentalTest.cs" />
-    <Compile Include="HourlyRentalTest.cs" />
-    <Compile Include="DailyRentalTest.cs" />
+    <Compile Include="Rental\FamilyRentalTest.cs" />
+    <Compile Include="Rental\HourlyRentalTest.cs" />
+    <Compile Include="Rental\DailyRentalTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SingleRentalTest.cs" />
-    <Compile Include="WeeklyRentalTest.cs" />
+    <Compile Include="Rental\SingleRentalTest.cs" />
+    <Compile Include="Rental\WeeklyRentalTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
