@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intive.Business", "Intive.Business\Intive.Business.csproj", "{6E698D6E-576B-4025-8AB2-D84B60DCB597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.Business.Tests", "IntiveBusiness.Tests\Intive.Business.Tests.csproj", "{94986E2E-2CD1-49F5-9DB7-38B21FB14BC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.Business.Tests", "Intive.Business.Tests\Intive.Business.Tests.csproj", "{94986E2E-2CD1-49F5-9DB7-38B21FB14BC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
